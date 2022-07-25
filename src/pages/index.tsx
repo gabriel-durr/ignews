@@ -17,7 +17,7 @@ export default function Home({product}: HomeProps) {
 	return (
 		<>
 			<Head>
-				<title>Home | gabnews</title>
+				<title>Home | gab of blog</title>
 			</Head>
 
 			<main className={styles.contentContainer}>

@@ -29,9 +29,13 @@
 
 > <h3> Links : </h3>
 
-Why use nextJS... [Learn More](https://nextjs.org/learn/foundations/about-nextjs/what-is-nextjs#:~:text=js%3F-,Next.,and%20optimizations%20for%20your%20application. "Clique para ser redirecionado!").
+Why use <b>nextJS</b>... [Learn More](https://nextjs.org/learn/foundations/about-nextjs/what-is-nextjs#:~:text=js%3F-,Next.,and%20optimizations%20for%20your%20application. "Clique para ser redirecionado!").
 
-ReactJS: A JavaScript library for creating interfaces ... [Learn More](https://pt-br.reactjs.org/ "Clique para ser redirecionado!")
+<b>ReactJS</b> A JavaScript library for creating interfaces ... [Learn More](https://pt-br.reactjs.org/ "Clique para ser redirecionado!")
+
+<b>Stripe</b> Get paid and move around the world with Stripe's powerful API  ... [Learn More](https://pt-br.reactjs.org/ "Clique para ser redirecionado!")
+
+
 
 <br/><br/>
 
@@ -43,15 +47,15 @@ ReactJS: A JavaScript library for creating interfaces ... [Learn More](https://p
 
 <p float="left">
 
-<img  id="reactJS"  src="./.github/reactjs.png" width="36px"  hspace="10"/>
+<img  id="reactJS"  src="./.github/reactjs.png" width="36px"  hspace="7"/>
 
-<img id="prismic-cms" src="./.github/prismiccms.png" width="32px" hspace="10" />
+<img id="prismic-cms" src="./.github/prismiccms.png" width="32px" hspace="7" />
 
-<img src="./.github/stripe.png" width="60px"/>
+<img src="./.github/stripe.png" width="60px" hspace="2"/>
 
-<img src="./.github/faunadb.webp" width="33px"/>
+<img src="./.github/faunadb.webp" width="33px" hspace="10"/>
 
-<img src="./.github/axios.png" width="33px"/>
+<img src="./.github/axios.png" width="33px"  hspace="10"/>
 
 </p>
 

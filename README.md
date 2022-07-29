@@ -48,7 +48,7 @@ ReactJS: A JavaScript library for creating interfaces ... [Learn More](https://p
 <img id="prismic-cms" src="./.github/prismiccms.png" width="32px" hspace="10" />
 
 <img src="./.github/stripe.png" width="60px"/>
-s
+
 <img src="./.github/faunadb.webp" width="33px"/>
 
 <img src="./.github/axios.png" width="33px"/>

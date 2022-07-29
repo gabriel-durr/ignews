@@ -1,7 +1,7 @@
 <h1 align="center" class="line-1 anim-typewriter"> NOME DO PROJETO</h1>
 
 <div align="center">
-        <img align="center" src="./.github/snoopPao.png" alt="Imagem do projeto" width="250px"> 
+        <img  align="center" src="./.github/snoopPao.png" alt="Imagem do projeto" width="250px"> 
         
 </div>
 
@@ -35,41 +35,29 @@ ReactJS: A JavaScript library for creating interfaces ... [Learn More](https://p
 
 <br/><br/>
 
-<h2 id="built_with"> 🧙‍♂️ Built with</h2>
+<h2 id="built_with" align="center"> 🧙‍♂️ Built with</h2>
 
 <br>
 
-<div id="react-js">
-<img align="left" src="./.github/reactjs.png" width="30px"/> 
-    <p align="left"><code><b>ReactJS</b></code></p> 
+<div  align="center" class="container-icons">
+
+
+<p float="left">
+
+<img  id="reactJS"  src="./.github/reactjs.png" width="36px"  hspace="10"/>
+
+<img id="prismic-cms" src="./.github/prismiccms.png" width="32px" hspace="10" />
+
+<img src="./.github/stripe.png" width="60px"/>
+
+<img src="./.githubfaunadb.webp" width="33px"/>
+
+<img src="./.github/axios.png" width="33px"/>
+
+</p>
+
 </div>
 
-<div id="next-js">
-        <img align="left" class="icon" src="./.github/nextjs.webp" width="35px"/>
-        <p align="left"><code><b>NextJS</b></code></p>
-</div>
-
-<div id="prismic-cms">
-        <img  align="left" class="icon" src="./.github/prismiccms.png" width="32px"/>
-        <p  align="left"><code><b>Praismic CMS</b></code></p>
-</div>
-
-<div id="faunadb">
-    <img align="left"  class="icon" src="./.github/faunadb.png" width="30px"/>
-    <p  align="left"><code><b>FaunaDB</b></code></p>
-</div>
-
-<div id="axios">
-        <img align="left" class="icon" src="./.github/axios.png" width="44px"/>
-        <p align="left"><code><b>Axios</b></code></p>
-</div>
-
-<div id="stripe">
-    <img align="left"  class="icon" src="./.github/stripe.png" width="30px"/>
-    <p  align="left"><code><b>Stripe</b></code></p>
-</div>
-
-<br/>
 <br/>
 <br/>
 <br/>

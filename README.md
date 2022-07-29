@@ -41,7 +41,6 @@ ReactJS: A JavaScript library for creating interfaces ... [Learn More](https://p
 
 <div  align="center" class="container-icons">
 
-
 <p float="left">
 
 <img  id="reactJS"  src="./.github/reactjs.png" width="36px"  hspace="10"/>
@@ -50,7 +49,7 @@ ReactJS: A JavaScript library for creating interfaces ... [Learn More](https://p
 
 <img src="./.github/stripe.png" width="60px"/>
 
-<img src="./.githubfaunadb.webp" width="33px"/>
+<img src="./.github/faunadb.webp" width="33px"/>
 
 <img src="./.github/axios.png" width="33px"/>
 

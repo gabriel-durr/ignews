@@ -1,4 +1,4 @@
-<h1 align="center" class="line-1 anim-typewriter"> NOME DO PROJETO</h1>
+<h1 align="center" class="line-1 anim-typewriter">Ignews</h1>
 
 <div align="center">
 <img  align="center" src="./.github/ig1.png" alt="Imagem do projeto" width="50%">      

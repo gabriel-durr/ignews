@@ -1,15 +1,16 @@
 <h1 align="center" class="line-1 anim-typewriter"> NOME DO PROJETO</h1>
 
-<pre align="center">
-<img  align="center" src="./.github/ig1.png" alt="Imagem do projeto" width="60%">      
- </pre>
+<div align="center">
+<img  align="center" src="./.github/ig1.png" alt="Imagem do projeto" width="50%">      
+ </div> </br>
  
- <pre align="center">
-<img  align="center" src="./.github/ig2.png" alt="Imagem do projeto" width="60%">
- </pre>
-<pre align="center">  
-<img  align="center" src="./.github/igl.png" alt="Imagem do projeto" width="60%">
- </pre>
+<div align="center">
+<img  align="center" src="./.github/ig2.png" alt="Imagem do projeto" width="50%">
+  </div> </br>
+  
+<div align="center">
+<img  align="center" src="./.github/igl.png" alt="Imagem do projeto" width="50%">
+  </div> 
         
         
 

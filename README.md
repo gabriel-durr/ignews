@@ -84,21 +84,19 @@ Why use <b>nextJS</b>... [Learn More](https://nextjs.org/learn/foundations/about
 1. <b>Clone the project</b>
 
 ```bash
-  $ git clone URL DO PROJETO && cd NOME DA PASTA DO PROJETO
+  $ git clone URL DO PROJETO && cd ignews
 ```
 
 2. <b>Install dependencies</b>
 
 ```bash
-  $ expo install
-  $ yarn add or npm install
+  $ yarn
 ```
 
 3. <b>Start the application</b>
 
 ```bash
-  $ expo start
-  $ yarn start or npm start
+  $ yarn dev
 ```
 
 </div>

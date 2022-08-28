@@ -84,7 +84,7 @@ Why use <b>nextJS</b>... [Learn More](https://nextjs.org/learn/foundations/about
 1. <b>Clone the project</b>
 
 ```bash
-  $ git clone URL DO PROJETO && cd ignews
+  $ git clone https://github.com/gabriel-durr/ignews && cd ignews
 ```
 
 2. <b>Install dependencies</b>
